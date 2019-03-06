@@ -1,3 +1,12 @@
+## Reason and TailwindCSS
+
+```sh
+yarn add bs-platform -D
+yarn add reason-react
+touch bsconfig.json
+```
+
+
 This project was bootstrapped with [Create React App TailwindCSS](https://github.com/DemianD/create-react-app-tailwindcss).
 
 ## Available Scripts
