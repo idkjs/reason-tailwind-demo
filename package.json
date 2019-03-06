@@ -5,10 +5,12 @@
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts-tailwindcss": "2.2.3"
+    "react-scripts-tailwindcss": "2.2.3",
+    "reason-react": "0.5.3"
   },
   "scripts": {
     "start": "react-scripts start",
+    "watch": "bsb -make-world -w",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -21,5 +23,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "bs-platform": "4.0.18"
+  }
 }

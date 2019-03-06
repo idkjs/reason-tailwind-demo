@@ -1,0 +1,27 @@
+# ninja log v5
+2	29	1551869581	MyApp.cmi	937a5492a7a0d8c6
+0	56	1551869837	src/App.mlast	877d7c8901adee8b
+56	78	1551869837	src/App.mlast.d	c831ca3689d4876e
+0	57	1551869859	src/App.mlast	877d7c8901adee8b
+57	71	1551869859	src/App.mlast.d	c831ca3689d4876e
+0	53	1551869866	src/App.mlast	877d7c8901adee8b
+54	64	1551869866	src/App.mlast.d	c831ca3689d4876e
+0	60	1551869866	src/App-MyApp.cmj	a2e798de7ad95b4
+0	60	1551869866	/Users/prisc_000/working/TUTORIALS/my-app/src/App.bs.js	a2e798de7ad95b4
+0	60	1551869866	src/App-MyApp.cmi	a2e798de7ad95b4
+1	45	1551869872	MyApp.cmi	937a5492a7a0d8c6
+0	83	1551869872	src/App.mlast	877d7c8901adee8b
+83	93	1551869872	src/App.mlast.d	c831ca3689d4876e
+0	67	1551869872	src/App-MyApp.cmj	a2e798de7ad95b4
+0	67	1551869872	/Users/prisc_000/working/TUTORIALS/my-app/src/App.bs.js	a2e798de7ad95b4
+0	67	1551869872	src/App-MyApp.cmi	a2e798de7ad95b4
+0	41	1551869873	src/App.mlast	877d7c8901adee8b
+41	54	1551869873	src/App.mlast.d	c831ca3689d4876e
+0	42	1551869873	src/App-MyApp.cmj	a2e798de7ad95b4
+0	42	1551869873	/Users/prisc_000/working/TUTORIALS/my-app/src/App.bs.js	a2e798de7ad95b4
+0	42	1551869873	src/App-MyApp.cmi	a2e798de7ad95b4
+0	42	1551869875	src/App.mlast	877d7c8901adee8b
+42	50	1551869875	src/App.mlast.d	c831ca3689d4876e
+1	46	1551869875	src/App-MyApp.cmj	a2e798de7ad95b4
+1	46	1551869875	/Users/prisc_000/working/TUTORIALS/my-app/src/App.bs.js	a2e798de7ad95b4
+1	46	1551869875	src/App-MyApp.cmi	a2e798de7ad95b4
